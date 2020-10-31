@@ -40,9 +40,11 @@ h1{
   margin-top:0;
   font-family: Sacramento;
   font-size: 50px;
+  margin-bottom: 0px;
 }
 
 p{
+  margin-top: 0px;
    font-family: Sacramento;
    font-size: 40px;
 }
